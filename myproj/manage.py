@@ -23,3 +23,9 @@ if __name__ == '__main__':
 
 	
 #adsdasdasdasdasdasd
+asd
+sd
+abssd
+asd
+asdas
+decodeasd
